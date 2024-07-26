@@ -1,0 +1,12 @@
+{
+    "84f257fa-4eab-4812-9868-caf78298fe42": {
+        "assetTypeGuid": "926268b2-2d45-4c52-87c9-d76815217359",
+        "path": "Package.nplugin",
+        "name": "Shapeways Assets"
+    },
+    "964aeee1-c059-b510-75c0-eaab6b045d00": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Thumbnail/Shapeways_Thumb.tex.nasset"
+    },
+    "guid": "4f9db9a8-e7ef-9708-b293-06ae5bcbaa97"
+}
